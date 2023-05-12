@@ -1,6 +1,6 @@
 # e-commerce
 
-<img src="ecommerceGif.gif" style='width:70%' />
+<img src="ecommerceGif.gif" style='width:100%' />
 
 ## Technologies used
 
